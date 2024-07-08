@@ -1,0 +1,19 @@
+{
+  "name": "grass-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Otsuka/grass-github.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-Otsuka/grass-github/issues"
+  },
+  "homepage": "https://github.com/R-Otsuka/grass-github#readme"
+}
